@@ -9,7 +9,7 @@ XRPasswordGenerator is a tool for Generating Strong Passwords
 
 # Usage:
       Usage: python3 xrpassgen.py [ -l ] [ integer ]
-      Version: .python3 xrpassgen.py [ -v ]
+      Version: python3 xrpassgen.py [ -v ]
       OPTIONS:
              * -l    ::  Length Of Password
              * -v    ::  Prints the version
