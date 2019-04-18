@@ -5,7 +5,7 @@ XRPasswordGenerator is a tool for Generating Strong Passwords
    Type this in your terminal: git clone https://github.com/XploitsR/XRPassGen.git
    
 # Run:
-      * python3 xrpassgen.py
+      python3 xrpassgen.py
 
 # Usage:
       Usage: python3 xrpassgen.py [ -l ] [ integer ]
