@@ -70,6 +70,9 @@ try:
   elif str(sys.argv[1]) == "-l" and sys.argv[2] is not None:
      if len(sys.argv[2]) > 0:
         pw = Generate(int(sys.argv[2]))
+        f = open("passwords.txt","a")
+        f.write("Password: " + pw +"\n")
+        f.close()
         print("Password:",pw,"\n")
   else:
      Usage()   
