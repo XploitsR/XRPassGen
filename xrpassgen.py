@@ -35,13 +35,13 @@ time.sleep(0.5)
 #Instructions
 def Usage():
     print("""
-Password: ./xrpassgen.py [ -l ] [ integer ]
-Version: ./xrpassgen.py [ -v ]
+Usage: python3 xrpassgen.py [ -l ] [ integer ]
+Version: python3 xrpassgen.py [ -v ]
 
-Options:
-    
-    -l    ::  Length Of Password
-    -v    ::  Prints the version
+OPTIONS:
+         -l    ::  To Specify Password Length
+         -v    ::  Prints the version
+integer        ::  Length Of Password
 
 """)
 
