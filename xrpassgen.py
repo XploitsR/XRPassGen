@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 ######################################################################
 # Copyright (c). All rights reserved                                 #
 # GNU GENERAL PUBLIC LICENSE                                         #
